@@ -1,0 +1,122 @@
+{
+  "title": null,
+  "duration": 29.638186,
+  "env": {
+    "SHELL": "/bin/bash",
+    "TERM": "xterm-256color"
+  },
+  "width": 80,
+  "height": 24,
+  "stdout": [
+    [
+      0.020264,
+      "\u001b]0;btcr@phoenix: ~/Documents/OverTheWire/Bandit\u0007\u001b[01;31mbtcr@phoenix\u001b[00m:\u001b[01;34m~/Documents/OverTheWire/Bandit\u001b[00m$ "
+    ],
+    [
+      1.80137,
+      "ssh bandit1@bandit.labs.overthewire.\r.org -p 2220"
+    ],
+    [
+      8.184531,
+      "\r\n"
+    ],
+    [
+      4.269018,
+      " _                     _ _ _   \r\n| |__   __ _ _ __   __| (_) |_ \r\n| '_ \\ / _` | '_ \\ / _` | | __|\r\n| |_) | (_| | | | | (_| | | |_ \r\n|_.__/ \\__,_|_| |_|\\__,_|_|\\__|\r\n                               \r\na http://www.overthewire.org wargame.\r\n\r\n"
+    ],
+    [
+      5.8e-05,
+      "bandit1@bandit.labs.overthewire.org's password: "
+    ],
+    [
+      3.125796,
+      "\r\n"
+    ],
+    [
+      0.765158,
+      "Welcome to Ubuntu 14.04 LTS (GNU/Linux 4.4.0-71-generic x86_64)\r\n\r\n * Documentation:  https://help.ubuntu.com/\r\n\r\nThe programs included with the Ubuntu system are free software;\r\nthe exact distribution terms for each program are described in the\r\nindividual files in /usr/share/doc/*/copyright.\r\n\r\nUbuntu comes with ABSOLUTELY NO WARRANTY, to the extent permitted by\r\napplicable law.\r\n\r\n\u001b]0;bandit1@bandit: ~\u0007bandit1@bandit:~$ "
+    ],
+    [
+      1.279572,
+      "l"
+    ],
+    [
+      0.154036,
+      "s"
+    ],
+    [
+      0.205296,
+      "\r\n"
+    ],
+    [
+      0.204957,
+      "-\r\n\u001b]0;bandit1@bandit: ~\u0007bandit1@bandit:~$ "
+    ],
+    [
+      1.569583,
+      "c"
+    ],
+    [
+      0.163668,
+      "a"
+    ],
+    [
+      0.212072,
+      "t"
+    ],
+    [
+      0.308355,
+      " "
+    ],
+    [
+      0.19571,
+      "."
+    ],
+    [
+      0.168994,
+      "/"
+    ],
+    [
+      0.351,
+      "-"
+    ],
+    [
+      1.023967,
+      "\r\n"
+    ],
+    [
+      0.209639,
+      "CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9\r\n\u001b]0;bandit1@bandit: ~\u0007bandit1@bandit:~$ "
+    ],
+    [
+      3.988725,
+      "e"
+    ],
+    [
+      0.317421,
+      "x"
+    ],
+    [
+      0.158901,
+      "i"
+    ],
+    [
+      0.143173,
+      "t"
+    ],
+    [
+      0.609178,
+      "\r\nlogout\r\n"
+    ],
+    [
+      0.206076,
+      "Connection to bandit.labs.overthewire.org closed.\r\r\n"
+    ],
+    [
+      0.000731,
+      "\u001b]0;btcr@phoenix: ~/Documents/OverTheWire/Bandit\u0007\u001b[01;31mbtcr@phoenix\u001b[00m:\u001b[01;34m~/Documents/OverTheWire/Bandit\u001b[00m$ "
+    ]
+  ],
+  "command": null,
+  "version": 1
+}

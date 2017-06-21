@@ -1,0 +1,642 @@
+{
+  "version": 1,
+  "stdout": [
+    [
+      0.025764,
+      "\u001b]0;btcr@phoenix: ~/Documents/OverTheWire/Bandit\u0007\u001b[01;31mbtcr@phoenix\u001b[00m:\u001b[01;34m~/Documents/OverTheWire/Bandit\u001b[00m$ "
+    ],
+    [
+      1.455668,
+      "exit"
+    ],
+    [
+      0.29774,
+      "\b\b\b\bssh bandit5@bandit.labs.overthewire.\r.org -p 2220"
+    ],
+    [
+      3.205229,
+      "\r\n"
+    ],
+    [
+      4.196751,
+      " _                     _ _ _   \r\n| |__   __ _ _ __   __| (_) |_ \r\n| '_ \\ / _` | '_ \\ / _` | | __|\r\n| |_) | (_| | | | | (_| | | |_ \r\n|_.__/ \\__,_|_| |_|\\__,_|_|\\__|\r\n                               \r\na http://www.overthewire.org wargame.\r\n\r\n"
+    ],
+    [
+      3.5e-05,
+      "bandit5@bandit.labs.overthewire.org's password: "
+    ],
+    [
+      4.556886,
+      "\r\n"
+    ],
+    [
+      0.768605,
+      "Welcome to Ubuntu 14.04 LTS (GNU/Linux 4.4.0-71-generic x86_64)\r\n\r\n * Documentation:  https://help.ubuntu.com/\r\n\r\nThe programs included with the Ubuntu system are free software;\r\nthe exact distribution terms for each program are described in the\r\nindividual files in /usr/share/doc/*/copyright.\r\n\r\nUbuntu comes with ABSOLUTELY NO WARRANTY, to the extent permitted by\r\napplicable law.\r\n\r\n\u001b]0;bandit5@bandit: ~\u0007bandit5@bandit:~$ "
+    ],
+    [
+      1.218846,
+      "l"
+    ],
+    [
+      0.214061,
+      "s"
+    ],
+    [
+      0.306937,
+      "\r\n"
+    ],
+    [
+      0.20515,
+      "\u001b[0m\u001b[01;34minhere\u001b[0m\r\n\u001b]0;bandit5@bandit: ~\u0007bandit5@bandit:~$ "
+    ],
+    [
+      1.229701,
+      "c"
+    ],
+    [
+      0.138114,
+      "d"
+    ],
+    [
+      0.123153,
+      " "
+    ],
+    [
+      0.130391,
+      "i"
+    ],
+    [
+      0.163731,
+      "n"
+    ],
+    [
+      0.13309,
+      "h"
+    ],
+    [
+      0.162647,
+      "e"
+    ],
+    [
+      0.122191,
+      "r"
+    ],
+    [
+      0.123022,
+      "e"
+    ],
+    [
+      0.336497,
+      "\r\n"
+    ],
+    [
+      0.204438,
+      "\u001b]0;bandit5@bandit: ~/inhere\u0007bandit5@bandit:~/inhere$ "
+    ],
+    [
+      0.803755,
+      "l"
+    ],
+    [
+      0.180255,
+      "s"
+    ],
+    [
+      0.144247,
+      "\r\n\u001b[0m\u001b[01;34mmaybehere00\u001b[0m  \u001b[01;34mmaybehere04\u001b[0m  \u001b[01;34mmaybehere08\u001b[0m  \u001b[01;34mmaybehere12\u001b[0m  \u001b[01;34mmaybehere16\u001b[0m\r\n\u001b[01;34mmaybehere01\u001b[0m  \u001b[01;34mmaybehere05\u001b[0m  \u001b[01;34mmaybehere09\u001b[0m  \u001b[01;34mmaybehere13\u001b[0m  \u001b[01;34mmaybehere17\u001b[0m\r\n\u001b[01;34mmaybehere02\u001b[0m  \u001b[01;34mmaybehere06\u001b[0m  \u001b[01;34mmaybehere10\u001b[0m  \u001b[01;34mmaybehere14\u001b[0m  \u001b[01;34mmaybehere18\u001b[0m\r\n\u001b[01;34mmaybehere03\u001b[0m  \u001b[01;34mmaybehere07\u001b[0m  \u001b[01;34mmaybehere11\u001b[0m  \u001b[01;34mmaybehere15\u001b[0m  \u001b[01;34mmaybehere19\u001b[0m\r\n"
+    ],
+    [
+      0.20325,
+      "\u001b]0;bandit5@bandit: ~/inhere\u0007bandit5@bandit:~/inhere$ "
+    ],
+    [
+      1.422247,
+      "c"
+    ],
+    [
+      0.12673,
+      "l"
+    ],
+    [
+      0.145534,
+      "e"
+    ],
+    [
+      0.126568,
+      "a"
+    ],
+    [
+      0.142223,
+      "r"
+    ],
+    [
+      0.187111,
+      "\r\n\u001b[H\u001b[2J\u001b]0;bandit5@bandit: ~/inhere\u0007bandit5@bandit:~/inhere$ "
+    ],
+    [
+      0.423965,
+      "l"
+    ],
+    [
+      0.190754,
+      "s"
+    ],
+    [
+      0.615019,
+      " "
+    ],
+    [
+      0.204129,
+      "-"
+    ],
+    [
+      0.512244,
+      "R"
+    ],
+    [
+      1.945694,
+      " "
+    ],
+    [
+      0.306885,
+      "|"
+    ],
+    [
+      0.202927,
+      " "
+    ],
+    [
+      0.206337,
+      "g"
+    ],
+    [
+      0.137049,
+      "r"
+    ],
+    [
+      0.162745,
+      "e"
+    ],
+    [
+      0.212694,
+      "p"
+    ],
+    [
+      1.028653,
+      " "
+    ],
+    [
+      0.488731,
+      "1"
+    ],
+    [
+      0.223377,
+      "0"
+    ],
+    [
+      0.205927,
+      "3"
+    ],
+    [
+      0.20355,
+      "3"
+    ],
+    [
+      0.512284,
+      "\r\n"
+    ],
+    [
+      3.491885,
+      "\u001b]0;bandit5@bandit: ~/inhere\u0007bandit5@bandit:~/inhere$ "
+    ],
+    [
+      1.320668,
+      "ls -R | grep 1033"
+    ],
+    [
+      0.396067,
+      "\b"
+    ],
+    [
+      0.196195,
+      "\b"
+    ],
+    [
+      0.16763,
+      "\b"
+    ],
+    [
+      0.161628,
+      "\b"
+    ],
+    [
+      0.171813,
+      "\b"
+    ],
+    [
+      0.176654,
+      "\b"
+    ],
+    [
+      0.163752,
+      "\b"
+    ],
+    [
+      0.201307,
+      "\b"
+    ],
+    [
+      0.177923,
+      "\b"
+    ],
+    [
+      0.132989,
+      "\b"
+    ],
+    [
+      0.204526,
+      "\b"
+    ],
+    [
+      1.108594,
+      "\u001b[1@-"
+    ],
+    [
+      0.221819,
+      "\u001b[1@a"
+    ],
+    [
+      0.140918,
+      "\u001b[1@l"
+    ],
+    [
+      0.315767,
+      "\u001b[1@ "
+    ],
+    [
+      0.15858,
+      "\r\n"
+    ],
+    [
+      0.205825,
+      "-rw-r-----  1 root bandit5 \u001b[01;31m\u001b[K1033\u001b[m\u001b[K Jun 15 11:41 .file2\r\n\u001b]0;bandit5@bandit: ~/inhere\u0007bandit5@bandit:~/inhere$ "
+    ],
+    [
+      9.72868,
+      "ls -R -al | grep 1033"
+    ],
+    [
+      0.990897,
+      "\b \b"
+    ],
+    [
+      0.16019,
+      "\b \b"
+    ],
+    [
+      0.163591,
+      "\b \b"
+    ],
+    [
+      0.178931,
+      "\b \b"
+    ],
+    [
+      0.143163,
+      "\b \b"
+    ],
+    [
+      0.175308,
+      "\b \b"
+    ],
+    [
+      0.165656,
+      "\b \b"
+    ],
+    [
+      0.159223,
+      "\b \b"
+    ],
+    [
+      0.179403,
+      "\b \b"
+    ],
+    [
+      0.141243,
+      "\b \b"
+    ],
+    [
+      0.204093,
+      "\b \b"
+    ],
+    [
+      0.168649,
+      "\b \b"
+    ],
+    [
+      0.137972,
+      "\b \b"
+    ],
+    [
+      0.204714,
+      "\b \b"
+    ],
+    [
+      0.206191,
+      "\b \b"
+    ],
+    [
+      0.203462,
+      "\b \b"
+    ],
+    [
+      1.639088,
+      " "
+    ],
+    [
+      0.306377,
+      "-"
+    ],
+    [
+      0.15941,
+      "a"
+    ],
+    [
+      0.402028,
+      "l"
+    ],
+    [
+      0.652428,
+      "\r\n"
+    ],
+    [
+      0.003239,
+      ".:\r\ntotal 88\r\ndrwxr-x--- 22 root    bandit5 4096 Jun 15 11:41 \u001b[0m\u001b[01;34m.\u001b[0m\r\ndrwxr-xr-x  4 bandit5 bandit5 4096 Jun 21 08:57 \u001b[01;34m..\u001b[0m\r\ndrwxr-x---  2 root    bandit5 4096 Jun 15 11:41 \u001b[01;34mmaybehere00\u001b[0m\r\ndrwxr-x---  2 root    bandit5 4096 Jun 15 11:41 \u001b[01;34mmaybehere01\u001b[0m\r\ndrwxr-x---  2 root    bandit5 4096 Jun 15 11:41 \u001b[01;34mmaybehere02\u001b[0m\r\ndrwxr-x---  2 root    bandit5 4096 Jun 15 11:41 \u001b[01;34mmaybehere03\u001b[0m\r\ndrwxr-x---  2 root    bandit5 4096 Jun 15 11:41 \u001b[01;34mmaybehere04\u001b[0m\r\ndrwxr-x---  2 root    bandit5 4096 Jun 15 11:41 \u001b[01;34mmaybehere05\u001b[0m\r\ndrwxr-x---  2 root    bandit5 4096 Jun 15 11:41 \u001b[01;34mmaybehere06\u001b[0m\r\ndrwxr-x---  2 root    bandit5 4096 Jun 15 11:41 \u001b[01;34mmaybehere07\u001b[0m\r\ndrwxr-x---  2 root    bandit5 4096 Jun 15 11:41 \u001b[01;34mmaybehere08\u001b[0m\r\ndrwxr-x---  2 root    bandit5 4096 Jun 15 11:41 \u001b[01;34mmaybehere09\u001b[0m\r\ndrwxr-x---  2 root    bandit5 4096 Jun 15 11:41 \u001b[01;34mmaybehere10\u001b[0m\r\ndrwxr-x---  2 root    bandit5 4096 Jun 15 11:41 \u001b[01;34mmaybehere11\u001b[0m\r\ndrw"
+    ],
+    [
+      5.9e-05,
+      "xr-x---  2 root    bandit5 4096 Jun 15 11:41 \u001b[01;34mmaybehere12\u001b[0m\r\ndrwxr-x---  2 root    bandit5 4096 Jun 15 11:41 \u001b[01;34mmaybehere13\u001b[0m\r\ndrwxr-x---  2 root    bandit5 4096 Jun 15 11:41 \u001b[01;34mmaybehere14\u001b[0m\r\ndrwxr-x---  2 root    bandit5 4096 Jun 15 11:41 \u001b[01;34mmaybehere15\u001b[0m\r\ndrwxr-x---  2 root    bandit5 4096 Jun 15 11:41 \u001b[01;34mmaybehere16\u001b[0m\r\ndrwxr-x---  2 root    bandit5 4096 Jun 15 11:41 \u001b[01;34mmaybehere17\u001b[0m\r\ndrwxr-x---  2 root    bandit5 4096 Jun 15 11:41 \u001b[01;34mmaybehere18\u001b[0m\r\ndrwxr-x---  2 root    bandit5 4096 Jun 15 11:41 \u001b[01;34mmaybehere19\u001b[0m\r\n\r\n./maybehere00:\r\ntotal 72\r\n-rwxr-x---  1 root bandit5 1039 Jun 15 11:41 \u001b[01;32m-file1\u001b[0m\r\n-rw-r-----  1 root bandit5 9388 Jun 15 11:41 -file2\r\n-rwxr-x---  1 root bandit5 7378 Jun 15 11:41 \u001b[01;32m-file3\u001b[0m\r\ndrwxr-x---  2 root bandit5 4096 Jun 15 11:41 \u001b[01;34m.\u001b[0m\r\ndrwxr-x--- 22 root bandit5 4096 Jun 15 11:41 \u001b[01;34m..\u001b[0m\r\n-rwxr-x---  1 root bandit5  551 Jun 15 11:41 \u001b[01;32m.file1\u001b[0m\r\n-rw-r-----  1 root bandit5 7836 Jun 15 11:41 ."
+    ],
+    [
+      5.6e-05,
+      "file2\r\n-rwxr-x---  1 root bandit5 4802 Jun 15 11:41 \u001b[01;32m.file3\u001b[0m\r\n-rwxr-x---  1 root bandit5 6118 Jun 15 11:41 \u001b[01;32mspaces file1\u001b[0m\r\n-rw-r-----  1 root bandit5 6850 Jun 15 11:41 spaces file2\r\n-rwxr-x---  1 root bandit5 1915 Jun 15 11:41 \u001b[01;32mspaces file3\u001b[0m\r\n\r\n./maybehere01:\r\n"
+    ],
+    [
+      0.001497,
+      "total 80\r\n-rwxr-x---  1 root bandit5 6028 Jun 15 11:41 \u001b[01;32m-file1\u001b[0m\r\n-rw-r-----  1 root bandit5  288 Jun 15 11:41 -file2\r\n-rwxr-x---  1 root bandit5 9641 Jun 15 11:41 \u001b[01;32m-file3\u001b[0m\r\ndrwxr-x---  2 root bandit5 4096 Jun 15 11:41 \u001b[01;34m.\u001b[0m\r\ndrwxr-x--- 22 root bandit5 4096 Jun 15 11:41 \u001b[01;34m..\u001b[0m\r\n-rwxr-x---  1 root bandit5 8944 Jun 15 11:41 \u001b[01;32m.file1\u001b[0m\r\n-rw-r-----  1 root bandit5 3070 Jun 15 11:41 .file2\r\n-rwxr-x---  1 root bandit5 3792 Jun 15 11:41 \u001b[01;32m.file3\u001b[0m\r\n-rwxr-x---  1 root bandit5 4139 Jun 15 11:41 \u001b[01;32mspaces file1\u001b[0m\r\n-rw-r-----  1 root bandit5 4543 Jun 15 11:41 spaces file2\r\n-rwxr-x---  1 root bandit5 8834 Jun 15 11:41 \u001b[01;32mspaces file3\u001b[0m\r\n\r\n./maybehere02:\r\ntotal 68\r\n-rwxr-x---  1 root bandit5 3801 Jun 15 11:41 \u001b[01;32m-file1\u001b[0m\r\n-rw-r-----  1 root bandit5 3511 Jun 15 11:41 -file2\r\n-rwxr-x---  1 root bandit5 4932 Jun 15 11:41 \u001b[01;32m-file3\u001b[0m\r\ndrwxr-x---  2 root bandit5 4096 Jun 15 11:41 \u001b[01;34m.\u001b[0m\r\ndrwxr-x--- 22 root bandit5 4096 Jun 15 11:41 \u001b[01;34m.."
+    ],
+    [
+      6e-05,
+      "\u001b[0m\r\n-rwxr-x---  1 root bandit5 6351 Jun 15 11:41 \u001b[01;32m.file1\u001b[0m\r\n-rw-r-----  1 root bandit5 2577 Jun 15 11:41 .file2\r\n-rwxr-x---  1 root bandit5 7953 Jun 15 11:41 \u001b[01;32m.file3\u001b[0m\r\n-rwxr-x---  1 root bandit5 6746 Jun 15 11:41 \u001b[01;32mspaces file1\u001b[0m\r\n-rw-r-----  1 root bandit5 8488 Jun 15 11:41 spaces file2\r\n-rwxr-x---  1 root bandit5 2275 Jun 15 11:41 \u001b[01;32mspaces file3\u001b[0m\r\n\r\n./maybehere03:\r\ntotal 80\r\n-rwxr-x---  1 root bandit5  315 Jun 15 11:41 \u001b[01;32m-file1\u001b[0m\r\n-rw-r-----  1 root bandit5 6595 Jun 15 11:41 -file2\r\n-rwxr-x---  1 root bandit5 8275 Jun 15 11:41 \u001b[01;32m-file3\u001b[0m\r\ndrwxr-x---  2 root bandit5 4096 Jun 15 11:41 \u001b[01;34m.\u001b[0m\r\ndrwxr-x--- 22 root bandit5 4096 Jun 15 11:41 \u001b[01;34m..\u001b[0m\r\n-rwxr-x---  1 root bandit5 9769 Jun 15 11:41 \u001b[01;32m.file1\u001b[0m\r\n-rw-r-----  1 root bandit5 8880 Jun 15 11:41 .file2\r\n-rwxr-x---  1 root bandit5 2282 Jun 15 11:41 \u001b[01;32m.file3\u001b[0m\r\n-rwxr-x---  1 root bandit5 2190 Jun 15 11:41 \u001b[01;32mspaces file1\u001b[0m\r\n-rw-r-----  1 root bandit5 3385 Jun 15 11:41 spa"
+    ],
+    [
+      0.000133,
+      "ces file2\r\n-rwxr-x---  1 root bandit5 9234 Jun 15 11:41 \u001b[01;32mspaces file3\u001b[0m\r\n\r\n./maybehere04:\r\ntotal 60\r\n-rwxr-x---  1 root bandit5 4410 Jun 15 11:41 \u001b[01;32m-file1\u001b[0m\r\n-rw-r-----  1 root bandit5 2619 Jun 15 11:41 -file2\r\n-rwxr-x---  1 root bandit5 2117 Jun 15 11:41 \u001b[01;32m-file3\u001b[0m\r\ndrwxr-x---  2 root bandit5 4096 Jun 15 11:41 \u001b[01;34m.\u001b[0m\r\ndrwxr-x--- 22 root bandit5 4096 Jun 15 11:41 \u001b[01;34m..\u001b[0m\r\n-rwxr-x---  1 root bandit5 2440 Jun 15 11:41 \u001b[01;32m.file1\u001b[0m\r\n-rw-r-----  1 root bandit5 6144 Jun 15 11:41 .file2\r\n-rwxr-x---  1 root bandit5  142 Jun 15 11:41 \u001b[01;32m.file3\u001b[0m\r\n-rwxr-x---  1 root bandit5 5532 Jun 15 11:41 \u001b[01;32mspaces file1\u001b[0m\r\n-rw-r-----  1 root bandit5 2491 Jun 15 11:41 spaces file2\r\n-rwxr-x---  1 root bandit5 6002 Jun 15 11:41 \u001b[01;32mspaces file3\u001b[0m\r\n\r\n./maybehere05:\r\ntotal 64\r\n-rwxr-x---  1 root bandit5 2346 Jun 15 11:41 \u001b[01;32m-file1\u001b[0m\r\n-rw-r-----  1 root bandit5 5959 Jun 15 11:41 -file2\r\n-rwxr-x---  1 root bandit5 2572 Jun 15 11:41 \u001b[01;32m-file3\u001b[0m\r\ndrwxr-x---  2 r"
+    ],
+    [
+      4e-05,
+      "oot bandit5 4096 Jun 15 11:41 \u001b[01;34m.\u001b[0m\r\ndrwxr-x--- 22 root bandit5 4096 Jun 15 11:41 \u001b[01;34m..\u001b[0m\r\n-rwxr-x---  1 root bandit5 3201 Jun 15 11:41 \u001b[01;32m.file1\u001b[0m\r\n-rw-r-----  1 root bandit5 5917 Jun 15 11:41 .file2\r\n-rwxr-x---  1 root bandit5 4585 Jun 15 11:41 \u001b[01;32m.file3\u001b[0m\r\n-rwxr-x---  1 root bandit5  880 Jun 15 11:41 \u001b[01;32mspaces file1\u001b[0m\r\n"
+    ],
+    [
+      0.004931,
+      "-rw-r-----  1 root bandit5 2420 Jun 15 11:41 spaces file2\r\n-rwxr-x---  1 root bandit5 8585 Jun 15 11:41 \u001b[01;32mspaces file3\u001b[0m\r\n\r\n./maybehere06:\r\ntotal 64\r\n-rwxr-x---  1 root bandit5 5731 Jun 15 11:41 \u001b[01;32m-file1\u001b[0m\r\n-rw-r-----  1 root bandit5 1076 Jun 15 11:41 -file2\r\n-rwxr-x---  1 root bandit5 3443 Jun 15 11:41 \u001b[01;32m-file3\u001b[0m\r\ndrwxr-x---  2 root bandit5 4096 Jun 15 11:41 \u001b[01;34m.\u001b[0m\r\ndrwxr-x--- 22 root bandit5 4096 Jun 15 11:41 \u001b[01;34m..\u001b[0m\r\n-rwxr-x---  1 root bandit5 1271 Jun 15 11:41 \u001b[01;32m.file1\u001b[0m\r\n-rw-r-----  1 root bandit5 8976 Jun 15 11:41 .file2\r\n-rwxr-x---  1 root bandit5 2418 Jun 15 11:41 \u001b[01;32m.file3\u001b[0m\r\n-rwxr-x---  1 root bandit5 4073 Jun 15 11:41 \u001b[01;32mspaces file1\u001b[0m\r\n-rw-r-----  1 root bandit5 4251 Jun 15 11:41 spaces file2\r\n-rwxr-x---  1 root bandit5 8065 Jun 15 11:41 \u001b[01;32mspaces file3\u001b[0m\r\n\r\n./maybehere07:\r\ntotal 56\r\n-rwxr-x---  1 root bandit5 3663 Jun 15 11:41 \u001b[01;32m-file1\u001b[0m\r\n-rw-r-----  1 root bandit5 2488 Jun 15 11:41 -file2\r\n-rwxr-x---  1 root bandit5 3362 "
+    ],
+    [
+      2.8e-05,
+      "Jun 15 11:41 \u001b[01;32m-file3\u001b[0m\r\ndrwxr-x---  2 root bandit5 4096 Jun 15 11:41 \u001b[01;34m.\u001b[0m\r\ndrwxr-x--- 22 root bandit5 4096 Jun 15 11:41 \u001b[01;34m..\u001b[0m\r\n-rwxr-x---  1 root bandit5 3065 Jun 15 11:41 \u001b[01;32m.file1\u001b[0m\r\n-rw-r-----  1 root bandit5 1033 Jun 15 11:41 .file2\r\n-rwxr-x---  1 root bandit5 1997 Jun 15 11:41 \u001b[01;32m.file3\u001b[0m\r\n-rwxr-x---  1 root bandit5 4130 Jun 15 11:41 \u001b[01;32mspaces file1\u001b[0m\r\n-rw-r-----  1 root bandit5 9064 Jun 15 11:41 spaces file2\r\n-rwxr-x---  1 root bandit5 1022 Jun 15 11:41 \u001b[01;32mspaces file3\u001b[0m\r\n\r\n./maybehere08:\r\ntotal 56\r\n-rwxr-x---  1 root bandit5 1077 Jun 15 11:41 \u001b[01;32m-file1\u001b[0m\r\n-rw-r-----  1 root bandit5 3825 Jun 15 11:41 -file2\r\n-rwxr-x---  1 root bandit5 2650 Jun 15 11:41 \u001b[01;32m-file3\u001b[0m\r\ndrwxr-x---  2 root bandit5 4096 Jun 15 11:41 \u001b[01;34m.\u001b[0m\r\ndrwxr-x--- 22 root bandit5 4096 Jun 15 11:41 \u001b[01;34m..\u001b[0m\r\n-rwxr-x---  1 root bandit5 8169 Jun 15 11:41 \u001b[01;32m.file1\u001b[0m\r\n-rw-r-----  1 root bandit5  747 Jun 15 11:41 .file2\r\n-rwxr-x---  1 root bandit5 2217 Jun "
+    ],
+    [
+      3e-05,
+      "15 11:41 \u001b[01;32m.file3\u001b[0m\r\n-rwxr-x---  1 root bandit5  215 Jun 15 11:41 \u001b[01;32mspaces file1\u001b[0m\r\n-rw-r-----  1 root bandit5 3693 Jun 15 11:41 spaces file2\r\n-rwxr-x---  1 root bandit5 9138 Jun 15 11:41 \u001b[01;32mspaces file3\u001b[0m\r\n\r\n./maybehere09:\r\ntotal 76\r\n-rwxr-x---  1 root bandit5 3628 Jun 15 11:41 \u001b[01;32m-file1\u001b[0m\r\n-rw-r-----  1 root bandit5  774 Jun 15 11:41 -file2\r\n-rwxr-x---  1 root bandit5 7961 Jun 15 11:41 \u001b[01;32m-file3\u001b[0m\r\ndrwxr-x---  2 root bandit5 4096 Jun 15 11:41 \u001b[01;34m.\u001b[0m\r\ndrwxr-x--- 22 root bandit5 4096 Jun 15 11:41 \u001b[01;34m..\u001b[0m\r\n-rwxr-x---  1 root bandit5 6763 Jun 15 11:41 \u001b[01;32m.file1\u001b[0m\r\n-rw-r-----  1 root bandit5 8517 Jun 15 11:41 .file2\r\n-rwxr-x---  1 root bandit5 3798 Jun 15 11:41 \u001b[01;32m.file3\u001b[0m\r\n-rwxr-x---  1 root bandit5 5301 Jun 15 11:41 \u001b[01;32mspaces file1\u001b[0m\r\n-rw-r-----  1 root bandit5 8716 Jun 15 11:41 spaces file2\r\n-rwxr-x---  1 root bandit5 7569 Jun 15 11:41 \u001b[01;32mspaces file3\u001b[0m\r\n\r\n./maybehere10:\r\ntotal 56\r\n-rwxr-x---  1 root bandit5 1052 Jun 15 11:41 \u001b[01;"
+    ],
+    [
+      2.9e-05,
+      "32m-file1\u001b[0m\r\n-rw-r-----  1 root bandit5 1991 Jun 15 11:41 -file2\r\n-rwxr-x---  1 root bandit5 1237 Jun 15 11:41 \u001b[01;32m-file3\u001b[0m\r\ndrwxr-x---  2 root bandit5 4096 Jun 15 11:41 \u001b[01;34m.\u001b[0m\r\ndrwxr-x--- 22 root bandit5 4096 Jun 15 11:41 \u001b[01;34m..\u001b[0m\r\n-rwxr-x---  1 root bandit5 7092 Jun 15 11:41 \u001b[01;32m.file1\u001b[0m\r\n-rw-r-----  1 root bandit5   99 Jun 15 11:41 .file2\r\n-rwxr-x---  1 root bandit5 2961 Jun 15 11:41 \u001b[01;32m.file3\u001b[0m\r\n-rwxr-x---  1 root bandit5 8269 Jun 15 11:41 \u001b[01;32mspaces file1\u001b[0m\r\n-rw-r-----  1 root bandit5 3570 Jun 15 11:41 spaces file2\r\n-rwxr-x---  1 root bandit5 2155 Jun 15 11:41 \u001b[01;32mspaces file3\u001b[0m\r\n\r\n./maybehere11:\r\ntotal 72\r\n-rwxr-x---  1 root bandit5 1211 Jun 15 11:41 \u001b[01;32m-file1\u001b[0m\r\n-rw-r-----  1 root bandit5 4559 Jun 15 11:41 -file2\r\n-rwxr-x---  1 root bandit5 8854 Jun 15 11:41 \u001b[01;32m-file3\u001b[0m\r\ndrwxr-x---  2 root bandit5 4096 Jun 15 11:41 \u001b[01;34m.\u001b[0m\r\ndrwxr-x--- 22 root bandit5 4096 Jun 15 11:41 \u001b[01;34m..\u001b[0m\r\n-rwxr-x---  1 root bandit5  452 Jun 15 11:41 \u001b[01;32m."
+    ],
+    [
+      2.9e-05,
+      "file1\u001b[0m\r\n-rw-r-----  1 root bandit5 2501 Jun 15 11:41 .file2\r\n-rwxr-x---  1 root bandit5 8261 Jun 15 11:41 \u001b[01;32m.file3\u001b[0m\r\n-rwxr-x---  1 root bandit5 3147 Jun 15 11:41 \u001b[01;32mspaces file1\u001b[0m\r\n-rw-r-----  1 root bandit5  503 Jun 15 11:41 spaces file2\r\n-rwxr-x---  1 root bandit5 8845 Jun 15 11:41 \u001b[01;32mspaces file3\u001b[0m\r\n\r\n./maybehere12:\r\ntotal 72\r\n-rwxr-x---  1 root bandit5 9678 Jun 15 11:41 \u001b[01;32m-file1\u001b[0m\r\n"
+    ],
+    [
+      0.210371,
+      "-rw-r-----  1 root bandit5  251 Jun 15 11:41 -file2\r\n-rwxr-x---  1 root bandit5 9076 Jun 15 11:41 \u001b[01;32m-file3\u001b[0m\r\ndrwxr-x---  2 root bandit5 4096 Jun 15 11:41 \u001b[01;34m.\u001b[0m\r\ndrwxr-x--- 22 root bandit5 4096 Jun 15 11:41 \u001b[01;34m..\u001b[0m\r\n-rwxr-x---  1 root bandit5 5815 Jun 15 11:41 \u001b[01;32m.file1\u001b[0m\r\n-rw-r-----  1 root bandit5 8244 Jun 15 11:41 .file2\r\n-rwxr-x---  1 root bandit5 1022 Jun 15 11:41 \u001b[01;32m.file3\u001b[0m\r\n-rwxr-x---  1 root bandit5 2157 Jun 15 11:41 \u001b[01;32mspaces file1\u001b[0m\r\n-rw-r-----  1 root bandit5 2460 Jun 15 11:41 spaces file2\r\n-rwxr-x---  1 root bandit5 1639 Jun 15 11:41 \u001b[01;32mspaces file3\u001b[0m\r\n\r\n./maybehere13:\r\ntotal 64\r\n-rwxr-x---  1 root bandit5 1359 Jun 15 11:41 \u001b[01;32m-file1\u001b[0m\r\n-rw-r-----  1 root bandit5 1423 Jun 15 11:41 -file2\r\n-rwxr-x---  1 root bandit5 3014 Jun 15 11:41 \u001b[01;32m-file3\u001b[0m\r\ndrwxr-x---  2 root bandit5 4096 Jun 15 11:41 \u001b[01;34m.\u001b[0m\r\ndrwxr-x--- 22 root bandit5 4096 Jun 15 11:41 \u001b[01;34m..\u001b[0m\r\n-rwxr-x---  1 root bandit5 5258 Jun 15 11:41 \u001b[01;32m.file1\u001b[0m\r\n-rw-"
+    ],
+    [
+      3.8e-05,
+      "r-----  1 root bandit5 8952 Jun 15 11:41 .file2\r\n-rwxr-x---  1 root bandit5 6965 Jun 15 11:41 \u001b[01;32m.file3\u001b[0m\r\n-rwxr-x---  1 root bandit5 3952 Jun 15 11:41 \u001b[01;32mspaces file1\u001b[0m\r\n-rw-r-----  1 root bandit5  952 Jun 15 11:41 spaces file2\r\n-rwxr-x---  1 root bandit5 4389 Jun 15 11:41 \u001b[01;32mspaces file3\u001b[0m\r\n\r\n./maybehere14:\r\ntotal 60\r\n-rwxr-x---  1 root bandit5 4282 Jun 15 11:41 \u001b[01;32m-file1\u001b[0m\r\n-rw-r-----  1 root bandit5 8351 Jun 15 11:41 -file2\r\n-rwxr-x---  1 root bandit5 3756 Jun 15 11:41 \u001b[01;32m-file3\u001b[0m\r\ndrwxr-x---  2 root bandit5 4096 Jun 15 11:41 \u001b[01;34m.\u001b[0m\r\ndrwxr-x--- 22 root bandit5 4096 Jun 15 11:41 \u001b[01;34m..\u001b[0m\r\n-rwxr-x---  1 root bandit5 3427 Jun 15 11:41 \u001b[01;32m.file1\u001b[0m\r\n-rw-r-----  1 root bandit5 1503 Jun 15 11:41 .file2\r\n-rwxr-x---  1 root bandit5 4821 Jun 15 11:41 \u001b[01;32m.file3\u001b[0m\r\n-rwxr-x---  1 root bandit5 1382 Jun 15 11:41 \u001b[01;32mspaces file1\u001b[0m\r\n-rw-r-----  1 root bandit5  871 Jun 15 11:41 spaces file2\r\n-rwxr-x---  1 root bandit5  376 Jun 15 11:41 \u001b[01;32mspaces file"
+    ],
+    [
+      2.7e-05,
+      "3\u001b[0m\r\n\r\n./maybehere15:\r\ntotal 64\r\n-rwxr-x---  1 root bandit5 8794 Jun 15 11:41 \u001b[01;32m-file1\u001b[0m\r\n-rw-r-----  1 root bandit5 9499 Jun 15 11:41 -file2\r\n-rwxr-x---  1 root bandit5 6299 Jun 15 11:41 \u001b[01;32m-file3\u001b[0m\r\ndrwxr-x---  2 root bandit5 4096 Jun 15 11:41 \u001b[01;34m.\u001b[0m\r\ndrwxr-x--- 22 root bandit5 4096 Jun 15 11:41 \u001b[01;34m..\u001b[0m\r\n-rwxr-x---  1 root bandit5 2159 Jun 15 11:41 \u001b[01;32m.file1\u001b[0m\r\n-rw-r-----  1 root bandit5  279 Jun 15 11:41 .file2\r\n-rwxr-x---  1 root bandit5  742 Jun 15 11:41 \u001b[01;32m.file3\u001b[0m\r\n-rwxr-x---  1 root bandit5 1623 Jun 15 11:41 \u001b[01;32mspaces file1\u001b[0m\r\n-rw-r-----  1 root bandit5   51 Jun 15 11:41 spaces file2\r\n-rwxr-x---  1 root bandit5 1637 Jun 15 11:41 \u001b[01;32mspaces file3\u001b[0m\r\n\r\n./maybehere16:\r\ntotal 80\r\n-rwxr-x---  1 root bandit5 4277 Jun 15 11:41 \u001b[01;32m-file1\u001b[0m\r\n-rw-r-----  1 root bandit5 5301 Jun 15 11:41 -file2\r\n-rwxr-x---  1 root bandit5 8085 Jun 15 11:41 \u001b[01;32m-file3\u001b[0m\r\ndrwxr-x---  2 root bandit5 4096 Jun 15 11:41 \u001b[01;34m.\u001b[0m\r\ndrwxr-x--- 22 root bandit5 409"
+    ],
+    [
+      1.8e-05,
+      "6 Jun 15 11:41 \u001b[01;34m..\u001b[0m\r\n-rwxr-x---  1 root bandit5 5426 Jun 15 11:41 \u001b[01;32m.file1\u001b[0m\r\n-rw-r-----  1 root bandit5 8472 Jun 15 11:41 .file2\r\n-rwxr-x---  1 root bandit5 1148 Jun 15 11:41 \u001b[01;32m.file3\u001b[0m\r\n-rwxr-x---  1 root bandit5 9773 Jun 15 11:41 \u001b[01;32mspaces file1\u001b[0m\r\n-rw-r-----  1 root bandit5 3146 Jun 15 11:41 spaces file2\r\n-rwxr-x---  1 root bandit5 7509 Jun 15 11:41 \u001b[01;32mspaces file3\u001b[0m\r\n\r\n./maybehere17:\r\ntotal 72\r\n-rwxr-x---  1 root bandit5 1133 Jun 15 11:41 \u001b[01;32m-file1\u001b[0m\r\n-rw-r-----  1 root bandit5 1791 Jun 15 11:41 -file2\r\n-rwxr-x---  1 root bandit5 4422 Jun 15 11:41 \u001b[01;32m-file3\u001b[0m\r\ndrwxr-x---  2 root bandit5 4096 Jun 15 11:41 \u001b[01;34m.\u001b[0m\r\ndrwxr-x--- 22 root bandit5 4096 Jun 15 11:41 \u001b[01;34m..\u001b[0m\r\n-rwxr-x---  1 root bandit5  895 Jun 15 11:41 \u001b[01;32m.file1\u001b[0m\r\n-rw-r-----  1 root bandit5 8341 Jun 15 11:41 .file2\r\n-rwxr-x---  1 root bandit5 5094 Jun 15 11:41 \u001b[01;32m.file3\u001b[0m\r\n-rwxr-x---  1 root bandit5 8361 Jun 15 11:41 \u001b[01;32mspaces file1\u001b[0m\r\n-rw-r-----  1 root band"
+    ],
+    [
+      1.7e-05,
+      "it5 3387 Jun 15 11:41 spaces file2\r\n-rwxr-x---  1 root bandit5 6381 Jun 15 11:41 \u001b[01;32mspaces file3\u001b[0m\r\n\r\n./maybehere18:\r\ntotal 68\r\n-rwxr-x---  1 root bandit5 9697 Jun 15 11:41 \u001b[01;32m-file1\u001b[0m\r\n-rw-r-----  1 root bandit5   77 Jun 15 11:41 -file2\r\n-rwxr-x---  1 root bandit5 2306 Jun 15 11:41 \u001b[01;32m-file3\u001b[0m\r\ndrwxr-x---  2 root bandit5 4096 Jun 15 11:41 \u001b[01;34m.\u001b[0m\r\ndrwxr-x--- 22 root bandit5 4096 Jun 15 11:41 \u001b[01;34m..\u001b[0m\r\n-rwxr-x---  1 root bandit5 5702 Jun 15 11:41 \u001b[01;32m.file1\u001b[0m\r\n-rw-r-----  1 root bandit5 2084 Jun 15 11:41 .file2\r\n-rwxr-x---  1 root bandit5  154 Jun 15 11:41 \u001b[01;32m.file3\u001b[0m\r\n-rwxr-x---  1 root bandit5 7334 Jun 15 11:41 \u001b[01;32mspaces file1\u001b[0m\r\n-rw-r-----  1 root bandit5 6348 Jun 15 11:41 spaces file2\r\n-rwxr-x---  1 root bandit5 7040 Jun 15 11:41 \u001b[01;32mspaces file3\u001b[0m\r\n\r\n./maybehere19:\r\ntotal 76\r\n-rwxr-x---  1 root bandit5 6302 Jun 15 11:41 \u001b[01;32m-file1\u001b[0m\r\n-rw-r-----  1 root bandit5 5594 Jun 15 11:41 -file2\r\n-rwxr-x---  1 root bandit5 7965 Jun 15 11:41 \u001b[01;32m-f"
+    ],
+    [
+      2e-05,
+      "ile3\u001b[0m\r\ndrwxr-x---  2 root bandit5 4096 Jun 15 11:41 \u001b[01;34m.\u001b[0m\r\ndrwxr-x--- 22 root bandit5 4096 Jun 15 11:41 \u001b[01;34m..\u001b[0m\r\n-rwxr-x---  1 root bandit5 7209 Jun 15 11:41 \u001b[01;32m.file1\u001b[0m\r\n-rw-r-----  1 root bandit5 4740 Jun 15 11:41 .file2\r\n-rwxr-x---  1 root bandit5  494 Jun 15 11:41 \u001b[01;32m.file3\u001b[0m\r\n-rwxr-x---  1 root bandit5 7186 Jun 15 11:41 \u001b[01;32mspaces file1\u001b[0m\r\n-rw-r-----  1 root bandit5 8785 Jun 15 11:41 spaces file2\r\n-rwxr-x---  1 root bandit5 2307 Jun 15 11:41 \u001b[01;32mspaces file3\u001b[0m\r\n\u001b]0;bandit5@bandit: ~/inhere\u0007bandit5@bandit:~/inhere$ "
+    ],
+    [
+      11.468203,
+      "c"
+    ],
+    [
+      0.184428,
+      "d"
+    ],
+    [
+      0.122828,
+      " "
+    ],
+    [
+      0.369313,
+      "."
+    ],
+    [
+      0.142756,
+      "/"
+    ],
+    [
+      0.327485,
+      "m"
+    ],
+    [
+      0.122522,
+      "a"
+    ],
+    [
+      0.437655,
+      "y"
+    ],
+    [
+      0.853468,
+      "b"
+    ],
+    [
+      0.204277,
+      "e"
+    ],
+    [
+      0.150778,
+      "h"
+    ],
+    [
+      0.163568,
+      "e"
+    ],
+    [
+      0.12256,
+      "r"
+    ],
+    [
+      0.123218,
+      "e"
+    ],
+    [
+      0.464291,
+      "0"
+    ],
+    [
+      1.025065,
+      "7"
+    ],
+    [
+      0.305863,
+      "\r\n"
+    ],
+    [
+      0.205025,
+      "\u001b]0;bandit5@bandit: ~/inhere/maybehere07\u0007bandit5@bandit:~/inhere/maybehere07$ "
+    ],
+    [
+      0.921489,
+      "c"
+    ],
+    [
+      0.396372,
+      "a"
+    ],
+    [
+      0.126077,
+      "t"
+    ],
+    [
+      0.194669,
+      " "
+    ],
+    [
+      0.204546,
+      "."
+    ],
+    [
+      0.1768,
+      "f"
+    ],
+    [
+      0.165552,
+      "i"
+    ],
+    [
+      0.122361,
+      "l"
+    ],
+    [
+      0.253124,
+      "e"
+    ],
+    [
+      0.20363,
+      "2"
+    ],
+    [
+      2.560128,
+      "\r\n"
+    ],
+    [
+      0.20803,
+      "DXjZPULLxYr17uwoI01bNLQbtFemEgo7\r\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              "
+    ],
+    [
+      2.6e-05,
+      "          \u001b]0;bandit5@bandit: ~/inhere/maybehere07\u0007bandit5@bandit:~/inhere/maybehere07$ "
+    ],
+    [
+      7.86888,
+      "koReBOKuIDDepwhWk7jZC0RTdopnAYKhclear\r\n"
+    ],
+    [
+      1.651135,
+      "-bash: koReBOKuIDDepwhWk7jZC0RTdopnAYKhclear: command not found\r\n\u001b]0;bandit5@bandit: ~/inhere/maybehere07\u0007bandit5@bandit:~/inhere/maybehere07$ "
+    ],
+    [
+      1.173108,
+      "c"
+    ],
+    [
+      0.124705,
+      "l"
+    ],
+    [
+      0.135902,
+      "e"
+    ],
+    [
+      0.141612,
+      "a"
+    ],
+    [
+      0.16643,
+      "r"
+    ],
+    [
+      0.203605,
+      "\r\n"
+    ],
+    [
+      0.205646,
+      "\u001b[H\u001b[2J\u001b]0;bandit5@bandit: ~/inhere/maybehere07\u0007bandit5@bandit:~/inhere/maybehere07$ "
+    ],
+    [
+      1.536484,
+      "e"
+    ],
+    [
+      0.135263,
+      "x"
+    ],
+    [
+      0.166569,
+      "i"
+    ],
+    [
+      0.173008,
+      "t"
+    ],
+    [
+      0.144292,
+      "\r\nlogout\r\n"
+    ],
+    [
+      3.9e-05,
+      "Connection to bandit.labs.overthewire.org closed.\r\r\n"
+    ],
+    [
+      0.002034,
+      "\u001b]0;btcr@phoenix: ~/Documents/OverTheWire/Bandit\u0007\u001b[01;31mbtcr@phoenix\u001b[00m:\u001b[01;34m~/Documents/OverTheWire/Bandit\u001b[00m$ "
+    ]
+  ],
+  "height": 24,
+  "width": 80,
+  "command": null,
+  "env": {
+    "SHELL": "/bin/bash",
+    "TERM": "xterm-256color"
+  },
+  "duration": 92.544924,
+  "title": null
+}
