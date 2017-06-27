@@ -7,3 +7,11 @@ I will have a write up coming out for each one as well.
 I recommend trying the challenges yourself without any help and only when you've ran out of ideas and feel like you lost track, should you look at a solution.  When you look at a solution, keep in mind it might not be the only solution.
 
 Also, learn a scripting language.  Python is a good one to start with.
+
+You will need asciinema to play the level files.  Once you've installed asciinema you can play the file with 
+
+`
+asciinema play levelX
+`
+
+Good luck and have fun!
