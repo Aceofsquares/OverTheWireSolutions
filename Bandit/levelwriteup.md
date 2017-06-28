@@ -99,3 +99,5 @@ should almost be second nature so practice, read, and play with the
 ls, cd, cat commands and any others you find along the way. (Some will
 be used later on).
 
+Once you are done with the session, type `exit`.
+
