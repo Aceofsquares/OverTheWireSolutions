@@ -77,9 +77,9 @@ in the home directory.  The home directory is usually located in
 I know that command wasn't listed in the commands we may need but it's 
 nice to know.  `pwd` gives us our location in the filesystem.  We are in
 our home directory so let's list the files and directories using one of
-the commands above.  You should `man command` replacing a command with a
-command listed to get a description of what you should use (and to learn
-what the commands do).
+the commands above.  You should `man command`, replacing command with a
+one of the listed commands to get a description of what you should use
+(and to learn what the commands do).
 
 Did you spot what we needed?  We should use the `ls` command.  When you
 press enter you will see a list of files and directories (in this case,
